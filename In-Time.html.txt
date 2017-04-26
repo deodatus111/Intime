@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+	<header class="header">
+		<div class="header-top"></div>
+			<div class="container"></div>
+			<div class="logo"></div>
+			<div class="photo"></div>
+		<div class="header-bottom">
+			<div class="container">
+				<ul class="navbar">
+					<li><a href="#">Каталог товаров</a></li>
+					<li><a href="#">Новинки</a></li>
+					<li><a href="#">Подарки</a></li>
+					<li><a href="#">Распродажа</a></li>
+					<li><a href="#">Контакты</a></li>
+				</ul>
+			</div>		
+		</div>
+	</header>
+	<div class="container">
+		<div class="breadcrumbs">
+			<li><a href="link">Главная</a></li>
+			<li><a href="link">Следующая страница</a></li>
+		</div>
+		<div class="left">
+			<div class="title1">
+				<h1>Новая коллекция ручных часов</h1>
+				<p>        Наручные женские часы не только необходимость знания времени, но и элемент имиджа.
+</p>
+				<img src="#">
+				<p></p>
+			</div>
+			<div class="title3">
+				<h3>Заголовок H3</h3></div>
+        <p>
+        Наручные женские часы не только необходимость знания времени, но и элемент имиджа.
+        </p>
+					<div class="ul.list">
+					<li><a href="#">Модные женские часы</a></li>
+					<li><a href="#">Модные женские часы</a></li>
+					<li><a href="#">Модные женские часы</a></li>
+					<li><a href="#">Модные женские часы</a></li>
+					<li><a href="#">Модные женские часы</a></li>
+			</div>
+			<hr>
+			<div class="title4">
+			</div>
+			<div class="ul.list-photos">
+				<li><a href="#">Link</a></li>
+				<li><a href="#">Link</a></li>
+				<li><a href="#">Link</a></li>
+				<img src="#">
+			</div>
+			<div class="p">
+			</div>
+			<div class="p">
+			</div>
+		</div>
+		<div class="right">
+			<div class="title2">
+			</div>
+			<div class="ul.list-news">
+			</div>
+				<li><a href="#">Link</a></li>
+				<li><a href="#">Link</a></li>
+				<li><a href="#">Link</a></li>
+					<new>
+						<div class="a.new-title"></div>
+						<span class="new-date"></span>
+						<div class="new-text"></div>
+	</div>
+	
+	</main>
+</body>
+</html>
